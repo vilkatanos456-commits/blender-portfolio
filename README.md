@@ -1,2 +1,21 @@
-# blender-portfolio
-blenders-renders
+# Blender 3D Portfolio
+
+Мои 3D-работы и рендеры, созданные в Blender.
+
+---
+
+## Сцена 1 — Пески / Дюны
+Рендеры сцены с разным освещением и настроением.
+
+| Magic Dunes | Moonlit Sand | Night Desert |
+| :---: | :---: | :---: |
+| ![Magic Dunes](Magic%20Dunes.png) | ![Moonlit Sand](Moonlit%20Sand.png) | ![Night Desert](Night%20Desert.png) |
+
+---
+
+## Сцена 2 — Городская сцена / Камера
+Разные планы, ракурсы и ночное освещение сцены.
+
+| Загальний | Камера крупний | Менший | Нічна вулиця |
+| :---: | :---: | :---: | :---: |
+| ![Загальний](%D0%B7%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9.png) | ![Камера крупний](%D0%9A%D0%B0%D0%BC%D0%B5%D1%80%D0%B0_%D0%9A%D1%80%D1%83%D0%BF%D0%BD%D0%B8%D0%B9.png) | ![Менший](%D0%BC%D0%B5%D0%BD%D1%8C%D1%88%D0%B8%D0%B9.png) | ![Нічна вулиця](%D0%BD%D1%96%D1%87%D0%BD%D0%B0_%D0%B2%D1%83%D0%BB%D0%B8%D1%86%D1%8F.png) |
